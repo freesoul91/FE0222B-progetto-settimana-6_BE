@@ -2,5 +2,5 @@
     pageEncoding="UTF-8"%>
     
  <div style="border:1px solid black; padding:10px">
-     Copyrigth Daniele Cerulli. 
+     Copyrigth Andres Santagati. 
  </div>

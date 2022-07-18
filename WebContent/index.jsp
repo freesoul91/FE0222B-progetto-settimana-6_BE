@@ -31,7 +31,7 @@
    <input type="submit" value="CONFERMA"/>
 </form>
 <br>
-<h6 style="color: red;">P.S.: Ho creato una delle pagine più brutte della storia delle pagine, scusate!</h6>
+
 <!-- Pie Pagina -->
 <jsp:include page="/WEB-INF/templates/piepagina.jsp"></jsp:include>
 
