@@ -7,6 +7,6 @@
           font-weight:bold;
       }
   </style>  
- <h1 class="titolo-sito" >Banca Popolare Brutta</h1>   
- <h3>Autore: Daniele Cerulli</h3>
+ <h1 class="titolo-sito" >Banca Popolare Colombia</h1>   
+ <h3>Autore: Andres Santagati</h3>
  <h4 class="titolo-sito" >Versione 1.0</h4>
